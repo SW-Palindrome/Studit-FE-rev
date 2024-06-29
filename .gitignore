@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/dotenv,react,nextjs,macos,visualstudiocode,git
-# Edit at https://www.toptal.com/developers/gitignore?templates=dotenv,react,nextjs,macos,visualstudiocode,git
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,nextjs,react,macos,git,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,nextjs,react,macos,git,dotenv
 
 ### dotenv ###
 .env
@@ -122,4 +122,4 @@ sketch
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/dotenv,react,nextjs,macos,visualstudiocode,git
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,nextjs,react,macos,git,dotenv
